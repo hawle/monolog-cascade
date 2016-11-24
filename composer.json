@@ -37,10 +37,5 @@
         "satooshi/php-coveralls": "~1.0",
         "squizlabs/php_codesniffer": "~2.5"
     },
-    "prefer-stable": true,
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.4.x-dev"
-        }
-    }
+    "prefer-stable": true
 }
